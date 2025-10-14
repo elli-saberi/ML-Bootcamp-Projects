@@ -10,7 +10,7 @@ This repository serves as a showcase for the projects completed during the ML/DL
 
 | #   | Project Name                               | Description                                                                 | Technologies Used                  |
 | --- | ------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------- |
-| 01  | [COVID-19 Pandas Analysis](./COVID-19-analysis-project/) | An exploratory data analysis (EDA) of a COVID-19 dataset using Pandas to clean, manipulate, and visualize data insights. | Python, Pandas, NumPy, Jupyter     |
+| 01  | [COVID-19 Pandas Analysis](./COVID-19-analysis-project/) | EDA of a COVID-19 dataset to calculate recovery/incident rates, identify top affected countries, and compare national statistics using Pandas. | Python, Pandas, NumPy, Jupyter     |
 | 02  | *Upcoming Project...*                      | -                                                                           | -                                  |
 | 03  | *Upcoming Project...*                      | -                                                                           | -                                  |
 
