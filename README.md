@@ -4,7 +4,7 @@ This project performs an in-depth exploratory data analysis (EDA) on a global CO
 
 ---
 
-## 🎯 Key Questions & Analysis Steps
+## Key Questions & Analysis Steps
 
 The core of this project was to answer several key questions through data manipulation. The main steps performed in the analysis were:
 
@@ -25,7 +25,7 @@ The core of this project was to answer several key questions through data manipu
 
 ---
 
-## 📦 Dataset & Generated Files
+## Dataset & Generated Files
 
 The primary dataset is a snapshot of the COVID-19 pandemic from **November 11, 2020**. During the analysis, the following derivative datasets were generated and saved as `.csv` files inside the `data/` directory:
 
@@ -45,7 +45,7 @@ The primary dataset is a snapshot of the COVID-19 pandemic from **November 11, 2
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1.  **Clone the repository:**
 ```bash
