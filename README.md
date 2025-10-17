@@ -8,9 +8,9 @@ This repository serves as a showcase for the projects completed during the ML/DL
 
 ## Projects
 
-| #   | Project Name                               | Description                                                                 | Technologies Used                  |
-| --- | ------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------- |
-| 01  | [COVID-19 Pandas Analysis](./COVID-19-analysis-project/) | EDA of a COVID-19 dataset to calculate recovery/incident rates, identify top affected countries, and compare national statistics using Pandas. | Python, Pandas, NumPy, Jupyter     |
-| 02  | *Upcoming Project...*                      | -                                                                           | -                                  |
+| #   | Project Name                               | Description                                                                
+| --- | ------------------------------------------ | ---------------------------------------------------------------------------
+| 01  | [COVID-19 Pandas Analysis](./COVID-19-analysis-project/) | EDA of a COVID-19 dataset to calculate recovery/incident rates, identify top affected countries, and compare national statistics using Pandas.   
+| 02  | Olympics Matplotlib Viz                     | Olympics data visualization project with Matplotlib                                                                        
 | 03  | *Upcoming Project...*                      | -                                                                           | -                                  |
 
