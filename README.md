@@ -1,7 +1,6 @@
 # ML Bootcamp Projects
 
-This repository showcases a series of Machine Learning mini-projects completed during the bootcamp journey.  
-Each project focuses on essential data science tasks including data analysis, feature engineering, statistical testing, and predictive modeling using Python and Scikit-learn.
+This repository showcases a series of Machine Learning mini-projects completed during the **Quera AI Bootcamp**. Each project is designed to tackle a specific problem using classic algorithms and demonstrates a practical understanding of the entire data science workflow, from data cleaning and exploration to model building and evaluation.
 
 
 ---
